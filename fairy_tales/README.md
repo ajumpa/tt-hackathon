@@ -20,3 +20,6 @@
     - Were you enamored with another before you met Cinderella?
     - If you had never met Cinderella or another for whom you felt true love, would you have married another out of duty to the kingdom?
     - What would you have done if you met Cinderella after already marrying another out of duty rather than love?
+- Can we get agents representing different characters to converse with one another?  Grok did a good job generating a conversation between Cinderella and the prince from the below prompt, but that was Grok playing both sides of the conversation rather representing only one side in communication with another agent that could be powered by another model.
+    - Now please enact a brief debate from Cinderella and the Prince from the attached story about whether the will live in palace or the countryside after their wedding.
+
