@@ -1,4 +1,7 @@
 requests
 streamlit
+openai
 pypdf
 chromadb
+
+
